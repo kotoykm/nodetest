@@ -1,0 +1,24 @@
+{
+  "name": "nodetest",
+  "version": "0.0.1",
+  "description": "First time with node and i already hate it",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "saludito": "node pringao.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kotoykm/nodetest.git"
+  },
+  "keywords": [
+    "holatilines"
+  ],
+  "author": "Eri Yakumo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kotoykm/nodetest/issues"
+  },
+  "homepage": "https://github.com/kotoykm/nodetest#readme"
+}
